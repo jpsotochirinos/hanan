@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "firebase_realtime": {
+    "name": "firebase_realtime",
+    "connector": "loopback-connector-realtime-database",
+    "projectId": "hanancandelaria2",  
+    "clientEmail":  "hanancandelaria2@appspot.gserviceaccount.com",
+    "privateKey": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTyvhZt53DOvv6\n+xbgn2rI7kY0/nksutIMEpIZBYKalDoxJGi3Oy6SgXH41sjzbrEXP7jLIf6EBbFY\nhxJkKJy0/Aj8n1fcLFqC+BahLM3PiCOaAMnYD5WMYqzJ8Age9X/2AYdLQATw59s/\nR/XukYp7t3rbV4+Q/+7Fjo4GwMuPchHNyvREj9SvEAG6tUdzIE/puENrsS1hJgn3\nl8SiQUOKwVJmKUiyC2YgYPCLZ0RW/D8s4l6slV2e1afyp6js+5oVYUbFAPC9PUbV\nhTA+X5WlqxvflW33WcFDEBI+0fox8tsNjPLZAQ46Pevpb0KqzgG7EafNhkN8h+zX\nSkJg1M3nAgMBAAECggEATrnu8SKQ0SZWzieRjHOVtRTlIgPJtTfIplYs2oIy1xTs\nQKIhDqNAH5NgczgbwGlQCK1WGqQLQLYBA0BKNNLn1VquWIE+nogaKP7hIo5N/qvD\nWBac8ORyGZoAUpwX2LI3G5Hb4bvtWkNFO1Obdk/BY1WDpI76vdJ0xhjEcHwv7qSy\nGPSqUKfFaAe/xovptnldRnJrdDDBouFyPUJk3Ve8TCRRpqTVgC5cYFWbNCVnTEQF\njeQu53Q+l0dcjuXF/d9bgUUM86cx27dF96ZvcOygBzcmrQ+Z4/AL3IdPwy6zBVYN\ndI3vRJB5uzN880xWvayRX9P007U+WDqgT/0Xt0dvCQKBgQDs4un9V1Kf5nMXX6XU\nEwa5lRx6ByWJEYnaGSD7WiBoGDZl6nTUklT2hAir/6v4PAeyvQldI7NV7/zXBz0h\na70PvSpQWoQ+8G7rGtCowzuVQDKKgFbqabAd9jGoBT7f+DWq2prWwVkIZWWPvEwB\nZOrmLo0AANge2scM4fZNUK9ClQKBgQDk4bpv61ttoyM9CMVR/vqJdZ6HzVslfzv1\nXudqh0oLUL2Tz+JaiQgCJVXINe7butRqSO00pv+/c68b8sIWj+kfXvdEgiwDvzz0\nQy/InArYLn+kK3HDzBr8WsfGv3hokRii5Nzc+6dTe51Ew/GPNGMXYiIu2V0G0xIR\nsGXV5AJLiwKBgH7q4KUsqQck6FsIkwd6HitGWdiDhbfXnr0so4An/J7pAhQ+ttPB\nhyYA/chxlojMWO+J2r99RjNv/k6TAUyrtcL9/fLJXHuARF1Qo6UX3Q+NMscEFg1I\nDOUwp9A250YGbXKZ50XSl8oo0W5eW3aPxE8Jd+Adk62MWANt+ZHY/d21AoGAW4kz\nKMN1wzk1RJmXYJ2a0RKrHiCwzSQ/dHhKEL6ejDv0NYM0QYUAIOuRjQqUxmfHv+H+\ni8omCglYBNNnb+KKFzPBrDJrK+x1kjK0j4RoieC+x4dgbi/YswgTUZcNrrQoqCzj\nb7VtS+PqF7BNkTogTx++EAJ6Q9pyJYTolUwk5tUCgYEAq+nrOPbhCqH0du4T1xPB\nwLisKWioYxZS4J2kPQ+IMzqeDqpUUMxhYKLihtw0LaN9JFM68ULwsCkM9XnSwbDk\nG5+OstApYD8qgA4gMm9OyYcrMFseKy2QYSpzSOY/6Zix4yKr/+/fBU9npzAHLGiP\nVkd9Vt2QNN9nehUV7PPBlS0=\n-----END PRIVATE KEY-----\n",
+    "databaseName": "hanancandelaria2"
+    
+  }
+}

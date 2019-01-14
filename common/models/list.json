@@ -1,0 +1,43 @@
+{
+  "name": "list",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "category": {
+      "type": "object",
+      "required": true
+    },
+    "date": {
+      "type": "date",
+      "required": true
+    },
+    "state": {
+      "type": "boolean",
+      "required": true
+    },
+    "activity": {
+      "type": "boolean",
+      "required": true
+    },
+    "interaction": {
+      "type": "number"
+    },
+    "type": {
+      "type": "string",
+      "required": true
+    },
+    "order": {
+      "type": "string"
+    },
+    "ranking": {
+      "type": "object"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

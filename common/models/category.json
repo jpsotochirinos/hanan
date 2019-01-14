@@ -1,0 +1,51 @@
+{
+  "name": "category",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "detail": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "type": "string"
+    },
+    "state": {
+      "type": "boolean",
+      "required": true
+    },
+    "location": {
+      "type": "object"
+    },
+    "popularity": {
+      "type": "number"
+    },
+    "fragment": {
+      "type": [
+        "object"
+      ],
+      "required": true
+    },
+    "root": {
+      "type": "object"
+    },
+    "created_date": {
+      "type": "date",
+      "required": true
+    },
+    "updated_date": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

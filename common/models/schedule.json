@@ -1,0 +1,42 @@
+{
+  "name": "schedule",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "detail": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date",
+      "required": true
+    },
+    "state": {
+      "type": "boolean",
+      "required": true
+    },
+    "location": {
+      "type": "object"
+    },
+    "interaction": {
+      "type": "number"
+    },
+    "created_date": {
+      "type": "date"
+    },
+    "updated_date": {
+      "type": "date",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
